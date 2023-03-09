@@ -93,7 +93,7 @@ By default, the firmware will send an alarm if the temperature falls outside the
 {
     "humidity":
     {
-        "status": "high", 
+        "status": "high",
         "value": 31.19921875
     },
     "temperature":
